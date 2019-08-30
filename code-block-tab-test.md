@@ -12,6 +12,12 @@ import tiledb
 #include <tiledb/tiledb>
 ```
 {% endtab %}
+
+{% tab title="C" %}
+```c
+#include <tiledb/tiledb.h>
+```
+{% endtab %}
 {% endtabs %}
 
 ```text
