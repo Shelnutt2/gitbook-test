@@ -12,9 +12,35 @@ import tiledb
 #include <tiledb/tiledb>
 ```
 {% endtab %}
+
+{% tab title="C" %}
+```c
+#include <tiledb/tiledb.h>
+```
+{% endtab %}
 {% endtabs %}
 
-```text
+## Testing Code block
 
+
+
+{% code-tabs %}
+{% code-tabs-item title="Python" %}
+```python
+import tiledb
 ```
+{% endcode-tabs-item %}
+
+{% code-tabs-item title="C++" %}
+```cpp
+#include <tiledb/tiledb>
+```
+{% endcode-tabs-item %}
+
+{% code-tabs-item title="C" %}
+```c
+#include <tiledb/tiledb.h>
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 
